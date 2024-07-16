@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SIEM Project Using Microsoft Azure](https://github.com/Synex6/SIEM-Project-using-Microsoft-Azure)
 
-
+<h2> Certifications</h2>
+- CompTIA Security+ CE
 
 <h2>  Connect with me:</h2>
 
