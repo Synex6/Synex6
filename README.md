@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [SIEM Project Using Microsoft Azure](https://github.com/Synex6/SIEM-Project-using-Microsoft-Azure)
+- [Active Directory Homelab](https://github.com/Synex6/Active-Directory-Homelab)
 
 <h2> Certifications</h2>
 - CompTIA Security+ CE
